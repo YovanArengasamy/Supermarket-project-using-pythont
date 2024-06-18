@@ -1,0 +1,7 @@
+products=(Horlicks,Boost,Bournvita,Complan,Glucon_D)
+
+press 1-->Horlicks
+press 2-->Boost
+press 3-->Bournvita
+press 4-->Complan
+press 5-->Glucon_D
